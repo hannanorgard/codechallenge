@@ -1,0 +1,45 @@
+* {
+    font-family: "Apercu Mono", monospace;
+  }
+ 
+* {
+      text-align: center;
+      margin: auto;
+      width: 85%;
+  }
+
+h1 {
+    background: url('') 0 0 repeat-x;
+    text-transform: uppercase;
+    font-size: 100px;
+    color: maroon;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px dashed maroon;
+}
+
+[href]{
+    color: maroon;
+ }
+
+ ul {
+    list-style-position: inside;
+    text-align: center;
+    list-style-type: '✰';  
+  }
+
+ body {
+     background-color: lightyellow;
+ }
+
+ p {
+     margin-bottom: 30px;
+ }
+
+ footer {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 2px dashed maroon;
+ }
